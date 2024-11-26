@@ -97,7 +97,6 @@ A custom CRM tool designed with **React**, **Node.js**, **Express**, and integra
 ---
 
 ### 🚀 Let’s Build Something Amazing Together!  
-![Code Banner](https://via.placeholder.com/1200x400?text=Let%27s+Code+Together)
 <!--
 **YSPlop/YSPlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
