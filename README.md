@@ -30,7 +30,7 @@ Hello! I'm Yukash Sivaraj, a passionate software developer with a knack for solv
 ### 🎵 [Rebecca Yeoh Music](https://www.rebeccayeohmusic.com.au)  
 A professional music website designed and deployed using **Next.js**, **React.js** in **TypeScript**, **Framer Motion**, and **Next UI** for a seamless user experience.  
 
-![Rebecca Yeoh Music Preview](https://via.placeholder.com/800x400?text=Project+Screenshot)
+![Rebecca Yeoh Music Preview](rebeccaYeohMusic.png)
 
 ---
 
