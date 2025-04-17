@@ -1,113 +1,97 @@
-# 💻 Yukash Sivaraj – Software Developer  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-blue?style=flat&logo=vercel)](https://personal-projects-silk.vercel.app/)  
+# 👨‍💻 Yukash Sivaraj – Software Developer  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-blue?style=flat&logo=vercel)](https://yukash.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yukash-sivaraj)  
-[![GitHub](https://img.shields.io/badge/GitHub-Visit_My_Profile-black?style=flat&logo=github)](https://github.com/YSPlop)  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-black?style=flat&logo=github)](https://github.com/YSPlop)  
 
 ---
 
 ## 👋 About Me  
-Hello! I'm Yukash Sivaraj, a passionate software developer with a knack for solving complex problems and creating meaningful, user-focused applications. With experience spanning front-end and back-end development, I thrive in agile environments and love working with cutting-edge technologies to deliver scalable and secure solutions.
+
+Hi, I'm Yukash – a full stack software developer based in Melbourne, Australia. I build reliable, scalable, and elegant web solutions that solve real-world problems. With hands-on experience in both startups and enterprise environments, I specialize in full stack JavaScript frameworks, AI-powered apps, and cloud-native solutions.
+
+I’m currently open to full-time developer opportunities. If you're building something meaningful and want a proactive, creative problem-solver on your team—let’s chat.
 
 ---
 
-## 🚀 Technical Expertise  
-**Languages & Frameworks**  
-- **Frontend**: JavaScript, TypeScript, React.js, Next.js, Vue.js, HTML, Tailwind CSS  
-- **Backend**: Node.js, PHP, Laravel, GraphQL, REST APIs  
-- **Mobile Development**: Kotlin, Jetpack Compose, Android Studio  
-- **Databases**: MySQL, MongoDB, CouchDB, Firebase  
-- **Cloud & DevOps**: CI/CD workflows, Ansible, Vertex AI  
+## 🧠 Skills at a Glance
 
-**Tools**  
-- **Collaboration**: Confluence, Jira, Trello, Git  
-- **Design & Animation**: Framer Motion, Next UI  
-- **Testing**: Playwright, WebDriver IO, Appium  
+**Frontend:** React.js, Vue.js, Next.js, Nuxt.js, TypeScript, Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Express.js, GraphQL, REST APIs, Laravel, PHP  
+**Mobile:** Kotlin, Jetpack Compose, Firebase, Android Studio  
+**Cloud & DevOps:** AWS (Lambda, Amplify, EC2), CI/CD, GitHub Actions, Payload CMS  
+**Testing:** Playwright, WebDriver IO, Appium, Xcode  
+**Data & AI:** Vertex AI, Claude 3, OpenAI API, CouchDB, MapReduce  
+**Tools:** Jira, Confluence, Trello, Git, Figma
 
 ---
 
-## 📂 My Projects  
+## 🚀 Highlight Projects
 
-### 🎵 [Rebecca Yeoh Music](https://www.rebeccayeohmusic.com.au)  
-A professional music website designed and deployed using **Next.js**, **React.js** in **TypeScript**, **Framer Motion**, and **Next UI** for a seamless user experience.  
+### 🏥 [Lume Health](https://lumehealth.com.au)  
+SaaS healthcare platform for NDIS providers with appointment scheduling, Google Calendar sync, and a user-friendly CMS (Next.js, Node.js, Payload CMS).
 
-![Rebecca Yeoh Music Preview](rebeccaYeohMusic.png)
+### 🎶 [Rebecca Yeoh Music](https://www.rebeccayeohmusic.com.au)  
+Elegant musician portfolio site with smooth animations and fast performance using Next.js, TypeScript, Framer Motion, and Next UI.
 
----
+### 🤖 [AI Chatbot](https://plops-bot.vercel.app/)  
+Custom OpenAI-powered chatbot—streaming responses, memory, dark mode, and a slick UI. Saves $20/month over ChatGPT Plus.
 
-### 🤖 OpenAI Integrated Chatbot  
-Interactive chatbot built using **Next.js**, **React**, and **OpenAI** API for dynamic, conversational experiences.  
+### 📊 [Twitter Sentiment Analysis](https://github.com/YSPlop/COMP90024-T13)  
+Analyzed social sentiment at scale using CouchDB, MapReduce, and data pipelines.
 
----
+### 🛡️ [Safe Circle](https://github.com/YSPlop/COMP90018_Ass2)  
+Android safety app with real-time location sharing using Kotlin, Firebase, and Google Maps API.
 
-### 🐦 Twitter Sentiment Analysis  
-Used **CouchDB** and **MapReduce** to process large-scale sentiment data, providing actionable insights.  
-
----
-
-### 🛡️ Safe Circle Android App  
-A mobile safety application developed with **Firebase**, **Google Maps API**, **Kotlin**, and **Jetpack Compose** for real-time location sharing.  
+### 📈 [Tax Calculator](https://personal-tax-calculator.vercel.app/)  
+Real-time income tax estimator with bracket visualization and responsive UI.
 
 ---
 
-### 🗂️ CRM Web Application  
-A custom CRM tool designed with **React**, **Node.js**, **Express**, and integrated with **Google Calendar API** for streamlined customer relationship management.
+## 🧑‍💼 Work Experience  
+
+**Software Developer** @ PS Design Studio (May–Aug 2024)  
+- Built 7 custom marketing websites using Statamic, Vue.js, GraphQL, and Laravel.  
+- Reduced Laravel Nova query complexity by 50% and improved SEO on client sites.
+
+**Software Engineer Intern** @ SideChef (Feb–May 2024)  
+- Automated 220+ UI test cases using Playwright and WebDriver IO across Android and iOS.  
+- Prototyped AI usability solutions using Vertex AI and Claude 3.
+
+**Project Supervisor/Tutor** @ University of Melbourne (Feb–May 2024)  
+- Mentored 4 agile teams on client-based software projects.  
+- Provided technical and project management coaching.
+
+**Freelance Software Developer** (Sep 2024 – Present)  
+- [Rebecca Yeoh Music](https://www.rebeccayeohmusic.com.au): Boosted engagement by 30%.  
+- [Eco Living Insulations](https://ecolivinsulations.com.au): SEO revamp increased conversions by 45%.  
+- [Lume Health](https://lumehealth.com.au): Built full-stack platform with CMS and booking system.
 
 ---
 
-## 💼 Professional Experience  
+## 🎓 Education  
 
-### Software Developer | PS Design Studio (Contract)  
-**May 2024 – August 2024**  
-- Developed seven custom websites using **HTML**, **Tailwind CSS**, and **JavaScript** with CMS backends.  
-- Built dynamic front-end components and APIs using **Vue.js**, **Nuxt.js**, and **GraphQL**.  
-- Optimized a **Laravel Nova** database, reducing query complexity by 50%.  
-
----
-
-### Software Engineer Intern | SideChef  
-**February 2024 – May 2024**  
-- Automated over 220 test cases for web and mobile using **Playwright**, **TypeScript**, and **WebDriver IO**.  
-- Contributed usability solutions leveraging **Vertex AI** and **Claude 3** in a seven-member agile team.  
+- **Master of Information Technology** (Distributed Computing)  
+  University of Melbourne, 2023  
+- **Bachelor of Science** (Computing & Software Systems)  
+  University of Melbourne, 2022  
 
 ---
 
-### Project Supervisor/Tutor | University of Melbourne  
-**February 2024 – May 2024**  
-- Mentored four agile student teams, guiding real-world software projects.  
-- Evaluated and coached teams on tools like **Confluence**, **GitHub**, and **Jira**.  
+## 📚 Currently Learning  
+
+- Cloud Engineering (AWS, Azure, Terraform)  
+- Advanced DevOps with CI/CD pipelines and monitoring  
+- AI/ML-powered SaaS apps
 
 ---
 
-## 📚 Education  
-- **Master of Information Technology** (Distributed Computing) – University of Melbourne (2023)  
-- **Bachelor of Science** (Computing & Software Systems) – University of Melbourne (2022)  
-
----
-
-## 🌱 What I’m Learning Next  
-- Advanced cloud computing with **AWS** and **Azure**.  
-- Exploring **AI/ML** integrations in scalable web applications.  
-
----
-
-## ✉️ Contact Me  
+## 📬 Get in Touch  
 📧 **sivarajyukash@gmail.com**  
-📱 **0431106869**  
+📱 **0431 106 869**  
 
 ---
 
-### 🚀 Let’s Build Something Amazing Together!  
-<!--
-**YSPlop/YSPlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Let's Build Something Impactful Together
 
-Here are some ideas to get you started:
+Whether it’s a product, a platform, or a proof of concept—I’m excited to work on projects that push boundaries and solve real problems. Reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
